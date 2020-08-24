@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/atelie-teste/static/css/main.d9c4c82f.chunk.css",
+    "main.js": "/atelie-teste/static/js/main.6a7b184b.chunk.js",
+    "main.js.map": "/atelie-teste/static/js/main.6a7b184b.chunk.js.map",
+    "runtime-main.js": "/atelie-teste/static/js/runtime-main.e776edb2.js",
+    "runtime-main.js.map": "/atelie-teste/static/js/runtime-main.e776edb2.js.map",
+    "static/js/2.ba217aa3.chunk.js": "/atelie-teste/static/js/2.ba217aa3.chunk.js",
+    "static/js/2.ba217aa3.chunk.js.map": "/atelie-teste/static/js/2.ba217aa3.chunk.js.map",
+    "index.html": "/atelie-teste/index.html",
+    "precache-manifest.d1d9a6e800da8771a6b85d747b6dda34.js": "/atelie-teste/precache-manifest.d1d9a6e800da8771a6b85d747b6dda34.js",
+    "service-worker.js": "/atelie-teste/service-worker.js",
+    "static/css/main.d9c4c82f.chunk.css.map": "/atelie-teste/static/css/main.d9c4c82f.chunk.css.map",
+    "static/js/2.ba217aa3.chunk.js.LICENSE.txt": "/atelie-teste/static/js/2.ba217aa3.chunk.js.LICENSE.txt",
+    "static/media/background-marrom.png": "/atelie-teste/static/media/background-marrom.c1896640.png",
+    "static/media/footer.png": "/atelie-teste/static/media/footer.b5458aa4.png",
+    "static/media/header.png": "/atelie-teste/static/media/header.ed31afbc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e776edb2.js",
+    "static/js/2.ba217aa3.chunk.js",
+    "static/css/main.d9c4c82f.chunk.css",
+    "static/js/main.6a7b184b.chunk.js"
+  ]
+}
